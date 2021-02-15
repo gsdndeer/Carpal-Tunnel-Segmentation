@@ -24,9 +24,11 @@ Therefore, in this project, I used DeeplabV3+ to segment the wrist tissue (inclu
 ```
 git clone https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image.git
 ```
-2. Download the models from [here](https://drive.google.com/drive/folders/10rljrZTcw8A98jBRzGsSgysMO4S65hOA)
+2. Download the data from [here](https://drive.google.com/drive/folders/1clUZVY3Vc4jX179rUZQdAMyN6nbN1eB4?usp=sharing)
 
-3. Run
+3. Download the models from [here](https://drive.google.com/drive/folders/10rljrZTcw8A98jBRzGsSgysMO4S65hOA)
+
+4. Run
 ```
 python predict_gui.py
 ```

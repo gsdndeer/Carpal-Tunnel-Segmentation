@@ -38,4 +38,4 @@ python predict_gui.py
 
 
 ## Acknowledgement
-[Segmentation models](https://github.com/qubvel/segmentation_models.pytorch)
+1. [Segmentation models](https://github.com/qubvel/segmentation_models.pytorch)

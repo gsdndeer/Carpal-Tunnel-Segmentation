@@ -8,9 +8,7 @@ The carpal tunnel is the passageway on the palmar side of wrist that connects th
 
 Magnetic resonance(MR) imaging are widely applied in clinical diagnosis.
 
-Therefore, in this project, I automatically segmented the wrist tissue (including the flexor tendon, median nerve, and carpal tunnel) from a pair of lateral multimodal (including T1-weighted and T2-weighted) MR images.
-
-<img src="https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image/blob/main/carpalTunnel/CT/0.jpg" width="100" height="80" >
+Therefore, in this project, I used DeeplabV3+ to segment the wrist tissue (including the flexor tendon, median nerve, and carpal tunnel) from a pair of lateral multimodal (including T1-weighted and T2-weighted) MR images.
 
 
 ## Environment
@@ -35,6 +33,5 @@ python predict_gui.py
 <img src="https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image/blob/main/figures/gui.png" width="650" height="450">
 
 
-
-
 ## Acknowledgement
+[Segmentation models](https://github.com/qubvel/segmentation_models.pytorch)

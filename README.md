@@ -8,7 +8,10 @@ The carpal tunnel is the passageway on the palmar side of wrist that connects th
 
 Magnetic resonance(MR) imaging are widely applied in clinical diagnosis.
 
-Therefore, in this project, I used DeeplabV3+ to segment the wrist tissue (including the flexor tendon, median nerve, and carpal tunnel) from a pair of lateral multimodal (including T1-weighted and T2-weighted) MR images.
+
+
+## Method
+In this project, I used DeeplabV3+ to segment the flexor tendon, median nerve, and carpal tunnel separately from a pair of lateral multimodal (including T1-weighted and T2-weighted) MR images. 
 
 
 

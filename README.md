@@ -39,3 +39,4 @@ python predict_gui.py
 
 ## Acknowledgement
 1. [Segmentation models](https://github.com/qubvel/segmentation_models.pytorch)
+2. [NCKU CSIE VSLAB](https://sites.google.com/view/ncku-csie-vslab)

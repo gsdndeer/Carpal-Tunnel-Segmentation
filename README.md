@@ -11,9 +11,11 @@ Magnetic resonance(MR) imaging are widely applied in clinical diagnosis.
 Therefore, in this project, I used DeeplabV3+ to segment the wrist tissue (including the flexor tendon, median nerve, and carpal tunnel) from a pair of lateral multimodal (including T1-weighted and T2-weighted) MR images.
 
 
+
 ## Environment
-python 3.6
-pytorch
+1. python 3.6.8
+2. pytorch 1.7.0
+
 
 
 ## Get started
@@ -29,8 +31,10 @@ git clone https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magneti
 python predict_gui.py
 ```
 
+
 ## GUI
 <img src="https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image/blob/main/figures/gui.png" width="650" height="450">
+
 
 
 ## Acknowledgement

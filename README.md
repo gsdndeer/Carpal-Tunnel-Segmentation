@@ -23,7 +23,7 @@ In this project, I used DeeplabV3+ to segment the flexor tendon, median nerve, a
 
 ## Get started
 
-1. Clone
+1. Clone the repository
 ```
 git clone https://github.com/gsdndeer/Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image.git
 ```

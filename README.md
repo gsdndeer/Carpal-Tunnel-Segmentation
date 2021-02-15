@@ -13,8 +13,8 @@ Therefore, in this project, I used DeeplabV3+ to segment the wrist tissue (inclu
 
 
 ## Environment
-1. python 3.6.8
-2. pytorch 1.7.0
+1. Python 3.6.8
+2. Pytorch 1.7.0
 
 
 

@@ -1,4 +1,4 @@
-# Segmentation-of-Carpal-Tunnel-from-magnetic-resonance-image
+# Carpal-Tunnel-Segmentation
 
 In recent years, carpal tunnel syndrome(CTS) becomes a common disease due to the heavy load in repetitive wrist work.
 
